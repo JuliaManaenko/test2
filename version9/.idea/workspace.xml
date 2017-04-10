@@ -2,1093 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbe8f6c9-6194-48b6-b0cf-69ef57aa1c8a" name="Default" comment="add project">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_resources_plugin_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_filtering_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_24.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_2_13_v20160825.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_build_api_0_0_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_stqa_selenium_webdriver_factory_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/branding/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/buyersGuideAutoReport/eMagazineEbrochureAutoReports/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/buyersGuideAutoReport/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/callTrackingSummaryT/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/copyrightOverride/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/dealers/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/liveHelp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/printTempateSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/promotionItems/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/shareIcons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/statisticsSources/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/admin/vehicleSpecification/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/commonVirComments/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/marketplace/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/smartauctionViwOptions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/vehicleRemovalServices/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/virAdministration/basicSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/virAdministration/extendedSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/virAdministration/gradingSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/virAdministration/translation/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/virAdministration/virSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/virEditor/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/auctionServices/virEditor/mobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/calltrackingTwilio/advancedCallSummary/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/calltrackingTwilio/callSummary/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/calltrackingTwilio/settings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/customers/leads/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/customers/liveHelp/browserVersion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/customers/liveHelp/mobileVersion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/customers/testimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/advertisement/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/dashboardMetrics/summary/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/dashboardMetrics/vehicleStatistics/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/dealerInfoArea/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/dmsHelp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/faq/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/latestNews/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/piwik/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsHomePage/quickNavigation/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/backupInventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/detailsPageDms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/eaw2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/inventoryReports/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/myInventory/auctionMarketplace/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/myInventory/disableAutomaticVehicleReassignment/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/myInventory/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/myInventory/iframe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/myInventory/osiEditor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/myInventory/vehicleHistory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/myInventory/vehicleTags/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/pinterest/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/quickImport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/recycleBin/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/transunionReport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/uploadWizard/auctionMarketplace/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/uploadWizard/edmunds/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/uploadWizard/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/uploadWizard/mmCodeDecoder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/uploadWizard/rearrange/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/uploadWizard/vehicleMedia/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/uploadWizard/vinDecoder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/warrantySticker/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsInventory/windowSticker/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/dmsLoginPage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/aggregatorExport/dealersMapping/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/aggregatorExport/fileFormats/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/aggregatorExport/mainExport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/aggregatorExport/presets/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/backpage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/craigslist/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiExport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/csv/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/csv/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/dealershipSpecialties/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/dealershipSpecialties/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/truckpaper/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/truckpaper/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/v9/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/v9/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/wtg/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/dfiImport/wtg/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/ebay/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/facebookAgg/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/facebookApp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/autobytel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/autoshopper/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/autotraderCa/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/autotraderCom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/backpage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/carsCom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/cobalt/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/cudl/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/dealerportal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/digitalMotorworksCsv/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/easyautosalesCsv/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/ebayLocalMarket/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/iseecars/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/lemonfree/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/olx/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/oodle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/rvtRvtrader/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/trovitXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/vast/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/vir/autolms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/vir/ax11/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/vir/openLane/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/vir/ove/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feeds/vir/smartAuction/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feedsZaf/autodealer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feedsZaf/autotraderCoZa/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feedsZaf/carfind/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feedsZaf/carsCoZa/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feedsZaf/separatedOlxXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/feedsZaf/trovitZaXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/overrideCounterImage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/exchange/twitterPost/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/finance/seriti/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/finance/signio/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/merchantServices/merchantSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/merchantServices/payment/customerAndPackage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/merchantServices/payment/paypal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/mobileServices/microsite/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/mobileServices/mobileForms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/mobileServices/mobileSite/basic/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/mobileServices/mobileSite/businessCardStaffing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/mobileServices/mobileSite/mobilePro/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/mobileServices/obd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/other/excelFilesGenerationMechanism/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/other/fuelConsumptionDatabase/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/other/siteMapXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/autoTrader/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/autocheck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/carfax/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/carsCom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/cudl/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/ebay/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/facebookConnect/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/pinterest/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/signio/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/transunion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/3rdPartyIntegration/youtube/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/batchUserProcessing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/dealershipSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/dynamicMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/email/pop3Smtp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/email/webmailSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/myProfile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/news/announcements/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/news/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/review/dealer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/review/vehicle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/sites/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/staffing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/access/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/address/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/auctionLink/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/autoxlooAccess/autoReports/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/autoxlooAccess/generalSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/autoxlooAccess/geoipOverridePhones/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/autoxlooAccess/phoneSubstitutionViaReferral/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/images/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/imagesQrFusing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/liveHelp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/users/promotions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/aliasForDealersPages/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/descriptionBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/404NotFoundRedirection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/CITDAndShowOsi/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/facebookSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/formsCaptcha/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/googleAnalytics/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/piwikSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/priceSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/vehiclesPerPageInDms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/general/websiteFavicon/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/leadsEmail/leadsForwardsV9/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/leadsEmail/leadsToCrmFrom3rdPartySites/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/leadsEmailCustom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/localization/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/mobileSiteSettings/basicVersion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/mobileSiteSettings/businessCard/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/mobileSiteSettings/mobilePro/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/postFormNotification/auctionMode/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/postFormNotification/notificationsAndAlerts/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/seo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/siteProtection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/uploadWizardFieldSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/settings/websiteSettings/websiteMedia/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/adsAndCoupons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/cannedImages/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/dealerScore/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/dealerStorageAndConverting/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/discount/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/lvsStorage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/maf/formBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/maf/formBuilder2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/maf/printEditor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/generalSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/360View/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/aboutUs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/advancedSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/advancedSearchHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/audioPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/bannerMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/bidNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/buttonBar/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/buttonPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/buyNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/buyersToolsPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/commonSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/compareVehiclesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/compareVehiclesNew/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/contactUsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/container/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/copyrights/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/creditForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/customButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/customCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/customRedirect/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/customTabs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/dealerPromotions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/dealerScore/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/discountForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/editableHtml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/editableHtmlPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/emailAFriendForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/facebookBodySearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/facebookDealerReviews/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/facebookInventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/facebookSimpleSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/facebookStackHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/facebookStackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/featuredCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/featuredVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/floatingPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/followUsCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/formBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/fuelEconomy/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/getEpriceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/globalFooter/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/globalHeader/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/highestVotedMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/horizontalAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/iframe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/inventoryBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/inventoryButtonsClickSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/inventoryList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/inventoryListMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/inventoryListMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/inventoryListMotorboxx/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/inventoryListPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/languageTranslator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/languageTranslatorGoogle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/latestAdditions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/liveChat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/livechatButtonOnDetailsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/logo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/lvsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/lvsFormInDetailsWidgets/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/marquee/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/menu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/menuAdvanced/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/menuCollapsibleAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/menuModels/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/micrositeFeaturedVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/micrositeMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/mobileMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/mostPopularVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/mostPriceDropChart/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/multipleVehicleVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/newsComponent/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/newsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/notifyMeForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/offerForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/optOutForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/orderForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/partsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/passwordProtection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/paymentCalculator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/phonesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/premiumListing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/printABrochure/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/printButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/printComparingVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/qrCode/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/qrCodeQuickUpload/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/quickIconsMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/quickLinks/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/quickLinksSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchByBodyStyle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchByKeywordMini/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchByMake/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchByPayment/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchByRegion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchByZip/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchSimple3Lokey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/searchWithAnchor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/sellerInfo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/serviceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/shareItIcons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/showroomGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/sidebarMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/similarVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/simpleSearch2Flat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/simpleSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/simpleSearchTruckS3/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/simpleSearchWithSelectBoxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/sitemap/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/slideshow/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/slideshowResponsive/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/spotlightDeals/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/stackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/stackSearch2Checkboxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/stackSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/staff/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/tagCloudGlobe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/testDriveForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/testimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/testimonialsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/tradeInForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleCondition/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleConditionMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleDetailsDisclaimer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleDetailsMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleDetailsMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleDetailsMotorboxx/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleDetailsTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleDetailsVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleGallery2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleLogos/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehiclePhoto/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleSpecification/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehicleVote/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehiclesReviewDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehiclesReviewForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehiclesReviewList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/vehiclesReviewSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/videoPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/videoPlaylistExVideotestimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map/widgets/visitCounter/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Orderdws.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Page.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/generalSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/virDedicatedPage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/360View/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/360ViewWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/aboutUs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/advancedSearchHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/audioPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/bidNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/buttonBar/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/buttonPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/buyNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/buyersToolsPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/commonSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/compareVehiclesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/compareVehiclesNew/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/contactUsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/container/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/copyrights/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/creditForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/customButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/customCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/customRedirect/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/customTabs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/dealerPromotions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/dealerScore/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/discountForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/editableHtmlPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/emailAFriendForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/facebookBodySearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/facebookDealerReviews/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/facebookInventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/facebookSimpleSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/facebookStackHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/facebookStackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/featuredCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/featuredVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/floatingPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/followUsCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/formBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/fuelEconomy/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/getEpriceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/highestVotedMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/horizontalAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/iframe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/inventoryBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/inventoryButtonsClickSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/inventoryList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/inventoryListMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/inventoryListMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/inventoryListPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/languageTranslator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/languageTranslatorGoogle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/latestAdditions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/liveChat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/livechatButtonOnDetailsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/logo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/lvsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/lvsFormInDetailsWidgets/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/marquee/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/menuAdvanced/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/menuCollapsibleAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/menuModels/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/micrositeFeaturedVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/micrositeMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/mostPopularVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/mostPriceDropChart/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/multipleVehicleVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/newsComponent/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/newsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/notifyMeForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/offerForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/optOutForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/orderForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/partsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/passwordProtection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/paymentCalculator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/phonesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/premiumListing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/printABrochure/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/printButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/printComparingVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/qrCode/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/qrCodeQuickUpload/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/quickLinks/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/quickLinksSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchByBodyStyle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchByKeywordMini/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchByMake/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchByPayment/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchByRegion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchByZip/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchSimple3Lokey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/searchWithAnchor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/sellerInfo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/serviceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/shareItIcons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/showroomGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/similarVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/simpleSearch2Flat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/simpleSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/simpleSearchTruckS3/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/simpleSearchWithSelectBoxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/sitemap/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/slideshow/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/spotlightDeals/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/stackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/stackSearch2Checkboxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/stackSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/staff/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/tagCloudGlobe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/testDriveForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/testimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/testimonialsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/tradeInForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/trafficSurvey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleCondition/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleDetailsDisclaimer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleDetailsMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleDetailsMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleDetailsTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleDetailsVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleGallery2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleLogos/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleSpecification/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleTabs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehicleVote/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehiclesReviewDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehiclesReviewForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehiclesReviewList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/vehiclesReviewSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/videoPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/videoPlaylistExVideotestimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/map2/widgets/visitCounter/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/mat/backpage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/mat/container/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/mat/eMagazineEbrochure/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/mat/ebay/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/notifyProfiles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/photobox/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/reviews/dealer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/reviews/vehicle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/trafficSurvey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/videoManager/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/widgetBuilder/inventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/widgetBuilder/searches/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/widgetBuilder2/inventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/tools/widgetBuilder2/searches/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dms/webmail/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utility/PropertyLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utility/WebDriverFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/branding/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/buyersGuideAutoReport/eMagazineEbrochureAutoReports/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/buyersGuideAutoReport/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/callTrackingSummaryT/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/copyrightOverride/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/dealers/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/liveHelp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/printTempateSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/promotionItems/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/shareIcons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/statisticsSources/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/admin/vehicleSpecification/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/commonVirComments/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/marketplace/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/smartauctionViwOptions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/vehicleRemovalServices/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/virAdministration/basicSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/virAdministration/extendedSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/virAdministration/gradingSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/virAdministration/translation/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/virAdministration/virSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/virEditor/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/auctionServices/virEditor/mobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/calltrackingTwilio/advancedCallSummary/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/calltrackingTwilio/callSummary/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/calltrackingTwilio/settings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/customers/leads/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/customers/liveHelp/browserVersion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/customers/liveHelp/mobileVersion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/customers/testimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/advertisement/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/dashboardMetrics/summary/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/dashboardMetrics/vehicleStatistics/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/dealerInfoArea/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/dmsHelp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/faq/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/latestNews/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/piwik/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsHomePage/quickNavigation/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/backupInventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/detailsPageDms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/eaw2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/inventoryReports/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/myInventory/auctionMarketplace/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/myInventory/disableAutomaticVehicleReassignment/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/myInventory/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/myInventory/iframe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/myInventory/osiEditor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/myInventory/vehicleHistory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/myInventory/vehicleTags/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/pinterest/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/quickImport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/recycleBin/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/transunionReport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/uploadWizard/auctionMarketplace/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/uploadWizard/edmunds/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/uploadWizard/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/uploadWizard/mmCodeDecoder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/uploadWizard/rearrange/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/uploadWizard/vehicleMedia/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/uploadWizard/vinDecoder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/warrantySticker/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsInventory/windowSticker/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/dmsLoginPage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/aggregatorExport/dealersMapping/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/aggregatorExport/fileFormats/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/aggregatorExport/mainExport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/aggregatorExport/presets/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/backpage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/craigslist/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiExport/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/csv/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/csv/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/dealershipSpecialties/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/dealershipSpecialties/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/truckpaper/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/truckpaper/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/v9/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/v9/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/wtg/import/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/dfiImport/wtg/scheduler/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/ebay/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/facebookAgg/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/facebookApp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/autobytel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/autoshopper/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/autotraderCa/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/autotraderCom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/backpage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/carsCom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/cobalt/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/cudl/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/dealerportal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/digitalMotorworksCsv/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/easyautosalesCsv/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/ebayLocalMarket/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/iseecars/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/lemonfree/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/olx/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/oodle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/rvtRvtrader/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/trovitXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/vast/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/vir/autolms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/vir/ax11/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/vir/openLane/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/vir/ove/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feeds/vir/smartAuction/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feedsZaf/autodealer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feedsZaf/autotraderCoZa/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feedsZaf/carfind/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feedsZaf/carsCoZa/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feedsZaf/separatedOlxXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/feedsZaf/trovitZaXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/overrideCounterImage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/exchange/twitterPost/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/finance/seriti/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/finance/signio/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/merchantServices/merchantSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/merchantServices/payment/customerAndPackage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/merchantServices/payment/paypal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/mobileServices/microsite/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/mobileServices/mobileForms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/mobileServices/mobileSite/basic/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/mobileServices/mobileSite/businessCardStaffing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/mobileServices/mobileSite/mobilePro/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/mobileServices/obd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/other/excelFilesGenerationMechanism/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/other/fuelConsumptionDatabase/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/other/siteMapXml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/autoTrader/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/autocheck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/carfax/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/carsCom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/cudl/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/ebay/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/facebookConnect/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/pinterest/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/signio/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/transunion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/3rdPartyIntegration/youtube/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/batchUserProcessing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/dealershipSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/dynamicMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/email/pop3Smtp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/email/webmailSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/myProfile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/news/announcements/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/news/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/review/dealer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/review/vehicle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/sites/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/staffing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/access/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/address/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/auctionLink/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/autoxlooAccess/autoReports/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/autoxlooAccess/generalSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/autoxlooAccess/geoipOverridePhones/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/autoxlooAccess/phoneSubstitutionViaReferral/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/general/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/images/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/imagesQrFusing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/liveHelp/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/users/promotions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/aliasForDealersPages/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/descriptionBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/404NotFoundRedirection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/CITDAndShowOsi/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/facebookSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/formsCaptcha/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/googleAnalytics/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/piwikSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/priceSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/vehiclesPerPageInDms/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/general/websiteFavicon/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/leadsEmail/leadsForwardsV9/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/leadsEmail/leadsToCrmFrom3rdPartySites/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/leadsEmailCustom/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/localization/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/mobileSiteSettings/basicVersion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/mobileSiteSettings/businessCard/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/mobileSiteSettings/mobilePro/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/postFormNotification/auctionMode/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/postFormNotification/notificationsAndAlerts/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/seo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/siteProtection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/uploadWizardFieldSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/settings/websiteSettings/websiteMedia/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/adsAndCoupons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/cannedImages/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/dealerScore/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/dealerStorageAndConverting/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/discount/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/lvsStorage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/maf/formBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/maf/formBuilder2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/maf/printEditor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/generalSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/360View/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/aboutUs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/advancedSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/advancedSearchHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/audioPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/bannerMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/bidNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/buttonBar/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/buttonPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/buyNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/buyersToolsPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/commonSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/compareVehiclesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/compareVehiclesNew/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/contactUsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/container/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/copyrights/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/creditForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/customButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/customCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/customRedirect/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/customTabs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/dealerPromotions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/dealerScore/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/discountForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/editableHtml/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/editableHtmlPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/emailAFriendForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/facebookBodySearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/facebookDealerReviews/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/facebookInventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/facebookSimpleSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/facebookStackHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/facebookStackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/featuredCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/featuredVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/floatingPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/followUsCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/formBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/fuelEconomy/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/getEpriceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/globalFooter/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/globalHeader/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/highestVotedMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/horizontalAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/iframe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/inventoryBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/inventoryButtonsClickSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/inventoryList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/inventoryListMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/inventoryListMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/inventoryListMotorboxx/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/inventoryListPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/languageTranslator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/languageTranslatorGoogle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/latestAdditions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/liveChat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/livechatButtonOnDetailsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/logo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/lvsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/lvsFormInDetailsWidgets/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/marquee/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/menu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/menuAdvanced/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/menuCollapsibleAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/menuModels/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/micrositeFeaturedVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/micrositeMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/mobileMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/mostPopularVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/mostPriceDropChart/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/multipleVehicleVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/newsComponent/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/newsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/notifyMeForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/offerForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/optOutForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/orderForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/partsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/passwordProtection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/paymentCalculator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/phonesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/premiumListing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/printABrochure/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/printButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/printComparingVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/qrCode/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/qrCodeQuickUpload/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/quickIconsMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/quickLinks/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/quickLinksSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchByBodyStyle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchByKeywordMini/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchByMake/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchByPayment/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchByRegion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchByZip/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchSimple3Lokey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/searchWithAnchor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/sellerInfo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/serviceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/shareItIcons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/showroomGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/sidebarMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/similarVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/simpleSearch2Flat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/simpleSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/simpleSearchTruckS3/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/simpleSearchWithSelectBoxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/sitemap/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/slideshow/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/slideshowResponsive/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/spotlightDeals/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/stackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/stackSearch2Checkboxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/stackSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/staff/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/tagCloudGlobe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/testDriveForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/testimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/testimonialsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/tradeInForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleCondition/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleConditionMobile/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleDetailsDisclaimer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleDetailsMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleDetailsMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleDetailsMotorboxx/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleDetailsTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleDetailsVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleGallery2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleLogos/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehiclePhoto/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleSpecification/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehicleVote/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehiclesReviewDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehiclesReviewForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehiclesReviewList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/vehiclesReviewSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/videoPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/videoPlaylistExVideotestimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map/widgets/visitCounter/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/generalSettings/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/virDedicatedPage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/360View/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/360ViewWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/aboutUs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/advancedSearchHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/audioPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/bidNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/buttonBar/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/buttonPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/buyNowForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/buyersToolsPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/commonSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/compareVehiclesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/compareVehiclesNew/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/contactUsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/container/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/copyrights/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/creditForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/customButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/customCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/customRedirect/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/customTabs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/dealerPromotions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/dealerScore/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/discountForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/editableHtmlPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/emailAFriendForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/facebookBodySearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/facebookDealerReviews/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/facebookInventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/facebookSimpleSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/facebookStackHorizontal/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/facebookStackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/featuredCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/featuredVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/floatingPanel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/followUsCarousel/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/formBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/fuelEconomy/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/getEpriceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/highestVotedMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/horizontalAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/iframe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/inventoryBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/inventoryButtonsClickSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/inventoryList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/inventoryListMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/inventoryListMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/inventoryListPlus/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/languageTranslator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/languageTranslatorGoogle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/latestAdditions/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/liveChat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/livechatButtonOnDetailsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/logo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/lvsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/lvsFormInDetailsWidgets/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/marquee/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/menuAdvanced/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/menuCollapsibleAccordion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/menuModels/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/micrositeFeaturedVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/micrositeMenu/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/mostPopularVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/mostPriceDropChart/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/multipleVehicleVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/newsComponent/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/newsWidget/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/notifyMeForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/offerForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/optOutForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/TestBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/partsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/passwordProtection/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/paymentCalculator/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/phonesList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/premiumListing/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/printABrochure/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/printButton/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/printComparingVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/qrCode/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/qrCodeQuickUpload/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/quickLinks/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/quickLinksSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchBuilder/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchByBodyStyle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchByKeywordMini/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchByMake/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchByPayment/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchByRegion/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchByZip/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchSimple3Lokey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/searchWithAnchor/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/sellerInfo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/serviceForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/shareItIcons/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/showroomGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/similarVehicles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/simpleSearch2Flat/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/simpleSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/simpleSearchTruckS3/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/simpleSearchWithSelectBoxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/sitemap/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/slideshow/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/spotlightDeals/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/stackSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/stackSearch2Checkboxes/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/stackSearchTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/staff/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/tagCloudGlobe/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/testDriveForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/testimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/testimonialsForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/tradeInForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/trafficSurvey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleCondition/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleDetailsDisclaimer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleDetailsMd/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleDetailsMd2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleDetailsTruck/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleDetailsVideo/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleGallery/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleGallery2/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleLogos/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleSpecification/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleTabs/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehicleVote/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehiclesReviewDetails/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehiclesReviewForm/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehiclesReviewList/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/vehiclesReviewSearch/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/videoPlayer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/videoPlaylistExVideotestimonials/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/visitCounter/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/mat/backpage/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/mat/container/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/mat/eMagazineEbrochure/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/mat/ebay/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/notifyProfiles/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/photobox/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/reviews/dealer/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/reviews/vehicle/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/trafficSurvey/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/videoManager/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/widgetBuilder/inventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/widgetBuilder/searches/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/widgetBuilder2/inventory/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/tools/widgetBuilder2/searches/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dms/webmail/1.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/environment.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/suite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/version9.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1118,7 +32,7 @@
       <file leaf-file-name="Orderdws.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Orderdws.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="289">
               <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -1142,8 +56,8 @@
       <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1154,8 +68,8 @@
       <file leaf-file-name="Maven__cglib_cglib_nodep_2_1_3.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -1164,7 +78,7 @@
       <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="391">
               <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -1176,7 +90,7 @@
       <file leaf-file-name="WebDriverFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utility/WebDriverFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
+            <state relative-caret-position="629">
               <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -1188,7 +102,7 @@
       <file leaf-file-name="PropertyLoader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utility/PropertyLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
+            <state relative-caret-position="680">
               <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
               <folding />
             </state>
@@ -1198,7 +112,7 @@
       <file leaf-file-name="Page.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Page.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
+            <state relative-caret-position="136">
               <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
@@ -1265,6 +179,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1499,13 +416,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="D:/IdeaProjects/ContactUs/contactUsUpdated" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -1782,12 +696,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1799,7 +712,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1810,6 +723,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1828,6 +742,88 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="38" lean-forward="false" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Orderdws.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/suite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utility/WebDriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utility/PropertyLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -1838,13 +834,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utility/PropertyLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
+        <state relative-caret-position="680">
           <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
           <folding />
         </state>
@@ -1860,7 +855,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utility/WebDriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
+        <state relative-caret-position="629">
           <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1870,7 +865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Page.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
+        <state relative-caret-position="136">
           <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
@@ -1880,13 +875,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dms/tools/map2/dws/Orderdws.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="289">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1898,7 +892,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="391">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1916,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/dms/tools/map2/widgets/orderForm/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1926,8 +920,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding />
         </state>
       </provider>
